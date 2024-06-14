@@ -1,0 +1,42 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (WindowsProject1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  SomeGame.cpp
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(63,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(64,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(65,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(66,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(96,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(97,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(98,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(134,20): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(134,47): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(181,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(192,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(194,41): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(195,42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(195,71): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(196,42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(196,71): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(203,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(220,26): warning C4305: =: усечение из "double" в "float"
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(227,27): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(229,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(249,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(259,59): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(259,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(272,11): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(306,18): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(306,15): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(308,22): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(308,17): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(310,20): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(310,15): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(313,22): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(313,17): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(315,24): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(315,17): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(317,20): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(317,15): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(342,43): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(342,25): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\SomeGame.cpp(445,12): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+  WindowsProject1.vcxproj -> C:\Users\Влад\source\repos\WindowsProject1\x64\Debug\SomeGame.exe

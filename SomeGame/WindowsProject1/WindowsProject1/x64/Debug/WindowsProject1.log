@@ -1,0 +1,4 @@
+﻿  WindowsProject1.cpp
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(40,23): error C2440: =: невозможно преобразовать "const char [9]" в "LPCWSTR"
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(48,9): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "const char [9]" в "LPCWSTR"
+C:\Users\Влад\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(116,12): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
